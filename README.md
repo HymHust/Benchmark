@@ -1,2 +1,2 @@
-# cross_machine_benchmark
-A cross-machine method using TensorFlow for fault diagnosis under reasonable benchmark
+# benchmark
+A reasonable evaluation benchmark for fault diagnosis using TensorFlow
